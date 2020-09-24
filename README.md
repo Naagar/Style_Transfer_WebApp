@@ -56,4 +56,4 @@ Models for the examples shown below can be downloaded from [here](https://www.dr
   <img src='images/style-images/udnie.jpg' height="174px">
 </div>
 ## For more details visit thi tutorial
-[click here for tutorial](https://www.youtube.com/watch?v=M3lZNbFJ6I0&t=485s)
+   [click here](https://www.youtube.com/watch?v=M3lZNbFJ6I0&t=485s)
